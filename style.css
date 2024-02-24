@@ -3,3 +3,27 @@ body{
     color: white;
     text-align: center;
 }
+
+header{
+    background-color: #cccccc;
+    display: inline-block;
+    padding: 0 20px;
+    border-radius: 10px;
+    text-shadow: black 3px 3px 5px;
+}
+
+.donar{
+    color: #cccccc;
+    text-shadow:  #000 3px 3px 5px;
+    font-size: 20px;
+}
+
+.donar button{
+    background-color: red;
+    border: none;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-top: 50px;
+}
